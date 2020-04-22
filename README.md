@@ -1,3 +1,3 @@
-# *Age and Sex Estimation Using Artificial Intelligence From Standard 12-Lead ECGs*
+# **Age and Sex Estimation Using Artificial Intelligence From Standard 12-Lead ECGs**
 We hypothesized that a convolutional neural network (CNN) could be trained through a process called deep learning to predict a person’s age and self-reported sex using only 12-lead ECG signals. We further hypothesized that discrepancies between CNNpredicted age and chronological age may serve as a physiological measure of health.
 - 논문 참고: Age and sex estimation using artificial intelligence from standard 12-lead ECGs Circulation: Arrhythmia and Electrophysiology 12 (9), e007284 https://www.ahajournals.org/doi/full/10.1161/CIRCEP.119.007284
