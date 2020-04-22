@@ -1,2 +1,2 @@
-# ECGProject
-### 산학프로젝트
+# *Age and Sex Estimation Using Artificial Intelligence From Standard 12-Lead ECGs*
+We hypothesized that a convolutional neural network (CNN) could be trained through a process called deep learning to predict a person’s age and self-reported sex using only 12-lead ECG signals. We further hypothesized that discrepancies between CNNpredicted age and chronological age may serve as a physiological measure of health.
